@@ -1,1 +1,3 @@
-print("Hello world, from client!")
+local Hud = require(script.Hud)
+
+Hud.start()

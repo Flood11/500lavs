@@ -48,6 +48,12 @@
             512
           ]
         }
+      },
+      "Base": {
+        "$path": "assets/models/Base.model.json"
+      },
+      "House": {
+        "$path": "assets/models/House.model.json"
       }
     },
     "Lighting": {

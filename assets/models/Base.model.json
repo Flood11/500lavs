@@ -1,0 +1,138 @@
+{
+	"ClassName": "Folder",
+	"Children": [
+		{
+			"Name": "SpawnLocation",
+			"ClassName": "SpawnLocation",
+			"Properties": {
+				"Size": [6, 1, 6],
+				"Position": [0, 0.5, -25],
+				"Color": [0.3, 0.6, 1],
+				"Anchored": true,
+				"CanCollide": true
+			}
+		},
+		{
+			"Name": "Landmarks",
+			"ClassName": "Folder",
+			"Children": [
+				{
+					"Name": "PillarNW",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 10, 2],
+						"Position": [-25, 5, -25],
+						"Color": [1, 0.55, 0],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "PillarNE",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 10, 2],
+						"Position": [25, 5, -25],
+						"Color": [1, 0.55, 0],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "PillarSW",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 10, 2],
+						"Position": [-25, 5, 25],
+						"Color": [1, 0.55, 0],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "PillarSE",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 10, 2],
+						"Position": [25, 5, 25],
+						"Color": [1, 0.55, 0],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				}
+			]
+		},
+		{
+			"Name": "Plots",
+			"ClassName": "Folder",
+			"Children": [
+				{
+					"Name": "PlotSlot1",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [4, 1, 4],
+						"Position": [-9, 0.5, 5],
+						"Color": [0.2, 0.9, 1],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "PlotSlot2",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [4, 1, 4],
+						"Position": [-3, 0.5, 5],
+						"Color": [0.2, 0.9, 1],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "PlotSlot3",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [4, 1, 4],
+						"Position": [3, 0.5, 5],
+						"Color": [0.2, 0.9, 1],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "PlotSlot4",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [4, 1, 4],
+						"Position": [9, 0.5, 5],
+						"Color": [0.2, 0.9, 1],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				}
+			]
+		},
+		{
+			"Name": "BankStall",
+			"ClassName": "Part",
+			"Properties": {
+				"Size": [4, 2, 4],
+				"Position": [-15, 1, -10],
+				"Color": [1, 0.84, 0],
+				"Anchored": true,
+				"CanCollide": true
+			}
+		},
+		{
+			"Name": "UpgradeStall",
+			"ClassName": "Part",
+			"Properties": {
+				"Size": [4, 2, 4],
+				"Position": [15, 1, -10],
+				"Color": [0.6, 0.2, 1],
+				"Anchored": true,
+				"CanCollide": true
+			}
+		}
+	]
+}
