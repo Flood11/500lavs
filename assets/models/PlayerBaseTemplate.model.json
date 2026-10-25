@@ -1,0 +1,121 @@
+{
+	"ClassName": "Folder",
+	"Children": [
+		{
+			"Name": "Pedestals",
+			"ClassName": "Folder",
+			"Children": [
+				{
+					"Name": "Pedestal1",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 1, 2],
+						"Position": [-8, 0.5, -5],
+						"Color": [0.75, 0.75, 0.8],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "Pedestal2",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 1, 2],
+						"Position": [-4, 0.5, -5],
+						"Color": [0.75, 0.75, 0.8],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "Pedestal3",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 1, 2],
+						"Position": [0, 0.5, -5],
+						"Color": [0.75, 0.75, 0.8],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "Pedestal4",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 1, 2],
+						"Position": [4, 0.5, -5],
+						"Color": [0.75, 0.75, 0.8],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "Pedestal5",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 1, 2],
+						"Position": [8, 0.5, -5],
+						"Color": [0.75, 0.75, 0.8],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "Pedestal6",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 1, 2],
+						"Position": [-8, 0.5, 5],
+						"Color": [0.75, 0.75, 0.8],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "Pedestal7",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 1, 2],
+						"Position": [-4, 0.5, 5],
+						"Color": [0.75, 0.75, 0.8],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "Pedestal8",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 1, 2],
+						"Position": [0, 0.5, 5],
+						"Color": [0.75, 0.75, 0.8],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "Pedestal9",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 1, 2],
+						"Position": [4, 0.5, 5],
+						"Color": [0.75, 0.75, 0.8],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				},
+				{
+					"Name": "Pedestal10",
+					"ClassName": "Part",
+					"Properties": {
+						"Size": [2, 1, 2],
+						"Position": [8, 0.5, 5],
+						"Color": [0.75, 0.75, 0.8],
+						"Anchored": true,
+						"CanCollide": true
+					}
+				}
+			]
+		}
+	]
+}

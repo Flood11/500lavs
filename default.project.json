@@ -56,6 +56,14 @@
         "$path": "assets/models/House.model.json"
       }
     },
+    "ServerStorage": {
+      "Templates": {
+        "$className": "Folder",
+        "PlayerBase": {
+          "$path": "assets/models/PlayerBaseTemplate.model.json"
+        }
+      }
+    },
     "Lighting": {
       "$properties": {
         "Ambient": [
